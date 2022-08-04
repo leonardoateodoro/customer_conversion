@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Branch dev
-          <div>teste comment</div>
+          <div>test commentary</div>
         </a>  
       </header>
     </div> 
